@@ -1,0 +1,15 @@
+# Allowlist: only the Claude setup is tracked. Every video project folder
+# (<project>/source, work, cuts, xml, exports) and .venv/ stay untracked.
+/*
+!/.gitignore
+!/README.md
+!/CLAUDE.md
+!/.mcp.json
+!/skills-lock.json
+!/.claude/
+!/_styles/
+!/config/
+
+# Machine-local overrides
+/.claude/settings.local.json
+.DS_Store

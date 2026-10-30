@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "premiere-pro-mcp": {
+      "source": "hetpatel-11/Adobe_Premiere_Pro_MCP",
+      "sourceType": "github",
+      "skillPath": "skills/premiere-pro-mcp/SKILL.md",
+      "computedHash": "91f07919d6cdaeb4fc39cb8c979d18f95cebfeddee5745f429c5c895cc265927"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "premiere-pro": {
+      "command": "premiere-pro-mcp",
+      "args": [],
+      "env": {
+        "PREMIERE_MCP_TELEMETRY": "0",
+        "PREMIERE_TEMP_DIR": "/tmp/premiere-mcp-bridge"
+      }
+    }
+  }
+}
